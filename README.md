@@ -103,7 +103,6 @@ Analítica avanzada
 
 Agregaría métricas más completas como:
 
-* Conversiones.
 * Usuarios nuevos por mes.
 * Cancelaciones.
 * Ingresos recurrentes mensuales.
