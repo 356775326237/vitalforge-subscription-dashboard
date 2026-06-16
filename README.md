@@ -9,7 +9,6 @@ El objetivo fue crear una app funcional donde un usuario pueda iniciar sesión, 
 Demo en vivo: https://vitalforge-subscription-dashboard.vercel.app/
 
 ⸻
-
 1. ¿Cómo desglosé el problema antes de empezar?
 
 Antes de comenzar, dividí el reto en partes pequeñas:
