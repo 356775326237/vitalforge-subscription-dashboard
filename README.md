@@ -60,13 +60,9 @@ Otro desafío fue decidir qué información mostrar. Elegí métricas relacionad
 * Usuarios activos.
 * Tasa de retención.
 
-Visualización de datos
-
-Para cumplir con la parte de analítica, agregué una gráfica de barras simple que muestra actividad mensual de la suscripción.
-
 ⸻
 
-4. ¿Cómo utilicé herramientas de IA? Dame ejemplos concretos.
+4. ¿Cómo utilicé herramientas de IA? ejemplos concretos.
 
 Utilicé herramientas de inteligencia artificial como apoyo durante el proceso de aprendizaje, investigación y desarrollo.
 
@@ -74,15 +70,10 @@ ChatGPT
 
 Usé ChatGPT para:
 
-* Entender cómo estructurar la aplicación.
 * Diseñar el flujo entre login y dashboard.
 * Resolver dudas sobre React y estados.
 * Organizar la sección de métricas.
-* Mejorar el README y explicar el proceso técnico.
 
-Gemini
-
-Utilicé Gemini principalmente durante el primer desafío para generar imágenes de productos VitalForge y mantener una identidad visual coherente entre ambos proyectos.
 
 Documentación e investigación
 
@@ -122,12 +113,3 @@ Mejoras de interfaz
 
 También mejoraría animaciones, estados de carga, validaciones de formulario y experiencia móvil.
 
-⸻
-
-Conclusión
-
-Este proyecto me permitió practicar la construcción de una aplicación más cercana a un producto real, no solo una página informativa.
-
-Aprendí a organizar un flujo de login, construir un dashboard, representar información útil de suscripción y desplegar una aplicación funcional en Vercel.
-
-También reforcé mi aprendizaje de React, Next.js, Tailwind CSS, Git, GitHub y despliegue en producción.
